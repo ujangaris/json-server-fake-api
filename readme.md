@@ -25,3 +25,14 @@
     - generat 1-2 data
     - generate banyak data dengan perulangan for
     - cara menjalankan fakernya: node.generate.js
+
+## Menyajikan data dalam bentuk array
+
+    1.  generate.js
+        - tampung data perulangan kedalam sebuah array produts
+        - buat array kosong dengan nama products
+        - buat data projection lagi yakni customer
+        - deklarasi array kosong customers
+        - cara menjalankan fakernya: node.generate.js
+
+    noted: kita akan digenerate data json customers dan products
