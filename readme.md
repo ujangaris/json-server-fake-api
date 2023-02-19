@@ -12,3 +12,16 @@
     - buat file db.json
     - jalankan server:  npm start
     - pada browser: http://localhost:3000/
+
+## Setup FakerJs
+
+    - install faker
+        npm install @faker-js/faker --save-dev
+    - package.json
+        tambahkan code untuk dapat mengimport fakernya
+        "type": "module",
+    - generate.js
+        import dan panggil faker
+    - generat 1-2 data
+    - generate banyak data dengan perulangan for
+    - cara menjalankan fakernya: node.generate.js
