@@ -36,3 +36,21 @@
         - cara menjalankan fakernya: node.generate.js
 
     noted: kita akan digenerate data json customers dan products
+
+## Generate file data
+
+    1.  generate.js
+        - import file system
+        - panggil file system
+        - jalankan : node generate.js
+        - akan ada satu file commerce.json yang tebuat lengkap dengan data jsonnya
+    2.  commerce.json
+        adalah hasil file generate kita
+
+    noted: fs.writeFileSync(
+            'commerce.json',
+            JSON.stringify({ products, customers }, null, 2)
+            );
+            {} => adalah data yang mau di generate
+            null => agar tidak menggunakan function replacer
+            2 => indentasi data, agar data jsonny rapih kebawah

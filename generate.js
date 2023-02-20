@@ -1,4 +1,6 @@
 import { faker } from '@faker-js/faker';
+// import file system
+import fs from 'fs';
 
 // generat 1-2 data
 const randomName = faker.name.fullName(); // Rowan Nikolaus
@@ -24,7 +26,7 @@ for (let i = 1; i <= 10; i++) {
 console.log(products);
 
 // buat data projection lagi yakni customer
-// deklarasi array kosong
+// deklarasi array kosong customers
 const customers = [];
 for (let i = 1; i <= 10; i++) {
   const customer = {
@@ -37,3 +39,9 @@ for (let i = 1; i <= 10; i++) {
   customers.push(customer);
 }
 console.log(customers);
+
+// panggil file system
+fs.writeFileSync(
+  'commerce.json',
+  JSON.stringify({ products, customers }, null, 2)
+);

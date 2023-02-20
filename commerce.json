@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "name": "Incredible Soft Salad",
+      "price": "447.00",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+    },
+    {
+      "name": "Elegant Frozen Salad",
+      "price": "665.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+    },
+    {
+      "name": "Tasty Cotton Bike",
+      "price": "653.00",
+      "description": "The Football Is Good For Training And Recreational Purposes"
+    },
+    {
+      "name": "Handcrafted Frozen Pants",
+      "price": "579.00",
+      "description": "The Football Is Good For Training And Recreational Purposes"
+    },
+    {
+      "name": "Modern Frozen Chair",
+      "price": "460.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    },
+    {
+      "name": "Rustic Rubber Chips",
+      "price": "930.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+    },
+    {
+      "name": "Rustic Plastic Tuna",
+      "price": "985.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    },
+    {
+      "name": "Rustic Steel Hat",
+      "price": "791.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    },
+    {
+      "name": "Bespoke Fresh Pizza",
+      "price": "973.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    },
+    {
+      "name": "Small Steel Mouse",
+      "price": "935.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+    }
+  ],
+  "customers": [
+    {
+      "name": "Teresa Stark",
+      "email": "Ephraim68@hotmail.com",
+      "password": "uB9CVmgBLIz9CTS",
+      "country": "North Gastonborough"
+    },
+    {
+      "name": "Wayne Ryan",
+      "email": "Osbaldo_Rau43@gmail.com",
+      "password": "vjtspkc33O_OPjR",
+      "country": "West Sylvesterville"
+    },
+    {
+      "name": "Joy Stracke",
+      "email": "Clemens.Treutel@gmail.com",
+      "password": "wXZ5v1rc5xZan2z",
+      "country": "Wymanworth"
+    },
+    {
+      "name": "Paul Muller",
+      "email": "Jettie87@hotmail.com",
+      "password": "afLL8wRhHhEnvT9",
+      "country": "West Austinburgh"
+    },
+    {
+      "name": "Mr. Melba Wisoky",
+      "email": "Humberto_Cassin@yahoo.com",
+      "password": "fwJP6vytgO4nRE7",
+      "country": "New Rasheed"
+    },
+    {
+      "name": "Kenny Pollich",
+      "email": "Kristoffer_Hagenes@hotmail.com",
+      "password": "NpmlvvYSsw3kMrt",
+      "country": "North Maurice"
+    },
+    {
+      "name": "Lucille Waelchi IV",
+      "email": "Aurelia13@yahoo.com",
+      "password": "1vfEcUEzzPnhaS6",
+      "country": "East Ryann"
+    },
+    {
+      "name": "Orville Kreiger",
+      "email": "Giovanny.Heaney52@hotmail.com",
+      "password": "zKpEXgKY2Na0FeZ",
+      "country": "Clementberg"
+    },
+    {
+      "name": "Darrell Hoeger",
+      "email": "Tanner.Mohr45@gmail.com",
+      "password": "aHfId8OJos2DLQS",
+      "country": "Mazietown"
+    },
+    {
+      "name": "Rosemary Reynolds",
+      "email": "Terrence_Murray77@yahoo.com",
+      "password": "51DXiT6rqjq2j_m",
+      "country": "Abigaylehaven"
+    }
+  ]
+}
