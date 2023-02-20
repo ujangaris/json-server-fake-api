@@ -54,3 +54,16 @@
             {} => adalah data yang mau di generate
             null => agar tidak menggunakan function replacer
             2 => indentasi data, agar data jsonny rapih kebawah
+
+## Jalankan server dari file commerce.json
+
+    1.  package.json
+        - pasang code berikut:
+            "scripts": {
+                "start": "json-server --watch commerce.json"
+            },
+        - jalankan server: npm start
+        - pada browser: nyalakan extension yarc!
+            kemudian pasatekan pada url
+            http://localhost:3000/customers
+            dan coba get responsenya
